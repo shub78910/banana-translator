@@ -15,7 +15,7 @@ function getURL(text){
 }
 
 function errorhandler(error){
-    alert("There's something wrong, please try after sometime.")
+    alert("There's something wrong, please try after sometime. Please note the API is limited to 5 queries per hour.")
 }
 
 
